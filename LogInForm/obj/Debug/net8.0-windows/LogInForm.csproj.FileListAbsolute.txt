@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\LogInForm\LogInForm\bin\Debug\net8.0-windows\LogInForm.exe
+C:\Users\User\source\repos\LogInForm\LogInForm\bin\Debug\net8.0-windows\LogInForm.deps.json
+C:\Users\User\source\repos\LogInForm\LogInForm\bin\Debug\net8.0-windows\LogInForm.runtimeconfig.json
+C:\Users\User\source\repos\LogInForm\LogInForm\bin\Debug\net8.0-windows\LogInForm.dll
+C:\Users\User\source\repos\LogInForm\LogInForm\bin\Debug\net8.0-windows\LogInForm.pdb
+C:\Users\User\source\repos\LogInForm\LogInForm\obj\Debug\net8.0-windows\LogInForm.Form1.resources
+C:\Users\User\source\repos\LogInForm\LogInForm\obj\Debug\net8.0-windows\LogInForm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LogInForm\LogInForm\obj\Debug\net8.0-windows\LogInForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LogInForm\LogInForm\obj\Debug\net8.0-windows\LogInForm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LogInForm\LogInForm\obj\Debug\net8.0-windows\LogInForm.AssemblyInfo.cs
+C:\Users\User\source\repos\LogInForm\LogInForm\obj\Debug\net8.0-windows\LogInForm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LogInForm\LogInForm\obj\Debug\net8.0-windows\LogInForm.dll
+C:\Users\User\source\repos\LogInForm\LogInForm\obj\Debug\net8.0-windows\refint\LogInForm.dll
+C:\Users\User\source\repos\LogInForm\LogInForm\obj\Debug\net8.0-windows\LogInForm.pdb
+C:\Users\User\source\repos\LogInForm\LogInForm\obj\Debug\net8.0-windows\LogInForm.genruntimeconfig.cache
+C:\Users\User\source\repos\LogInForm\LogInForm\obj\Debug\net8.0-windows\ref\LogInForm.dll
